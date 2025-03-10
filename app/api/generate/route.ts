@@ -75,6 +75,7 @@ Output:
           },
         ],
       };
+      
 
       const MyComponent = () => {
         const chartRef = React.useRef(null);
